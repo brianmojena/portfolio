@@ -21,6 +21,16 @@ Este portafolio muestra mis habilidades y proyectos como desarrollador de softwa
 
 El sitio está dividido en secciones accesibles desde el menú de navegación en la parte superior. Puedes hacer clic en los enlaces para desplazarte suavemente a cada sección.
 
+## Visualización en Línea
+
+Puedes ver el portafolio en línea visitando la siguiente URL: [https://tuportafolio.com](https://tuportafolio.com)
+
+## Contacto
+
+Si deseas saber más sobre mi trabajo o discutir una posible colaboración, no dudes en [contactarme](mailto:tuemail@ejemplo.com).
+
+---
+
 ## Instalación y Uso
 
 Para ver el portafolio localmente, simplemente clona este repositorio y abre el archivo `index.html` en tu navegador.
